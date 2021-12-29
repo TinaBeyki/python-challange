@@ -1,0 +1,6 @@
+FIGlet is a simple command-line utility for creating ASCII text banners or large letters out of ordinary text,
+whereas TOIlet (a sub-command under figlet) is a command-line utility for creating colorful large characters from
+ordinary text.
+
+install on mac -> brew install figlet
+link -> https://www.tecmint.com/create-ascii-text-banners-in-linux-terminal/
