@@ -1,6 +1,6 @@
 import random
 # import HangmanArt
-from HangmanArt import stages
+from problems.art.HangmanArt import stages
 
 print("Hint: its yummy summer fruit ")
 word_list = ["kiwi", "strawberry", "blueberry"]
